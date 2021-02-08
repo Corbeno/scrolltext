@@ -80,7 +80,6 @@ void main(){
             printf("display_end=%d, display_start=%d, message_end=%d, message_start=%d\n", display_end, display_start, message_end, message_start);
         }
 
-        // printf("start = %d, end = %d\n", display_start, display_end);
         printf("%s\n", str);
 
         fflush(stdout);
